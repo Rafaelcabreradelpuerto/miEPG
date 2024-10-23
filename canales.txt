@@ -32,6 +32,9 @@ AXN HD,ES- AXN HD
 AXN HD,ES- AXN SD
 AXN Movies HD,ES (AV) AXN MOVIES
 AXN Movies HD,ES (O) AXN Movies
+AXN Movies HD,ES 4k- AXN Movies
+AXN Movies HD,ES- AXN Movies FHD
+AXN Movies HD,ES- AXN Movies HD
 AZ Clic
 AZ Corazón
 Action Hollywood Movies
