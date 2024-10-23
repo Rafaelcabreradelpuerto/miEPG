@@ -35,15 +35,9 @@ AXN Movies HD,ES (O) AXN Movies
 AXN Movies HD,ES 4k- AXN Movies
 AXN Movies HD,ES- AXN Movies FHD
 AXN Movies HD,ES- AXN Movies HD
-AZ Clic
-AZ Corazón
-Action Hollywood Movies
-Adventure Sports TV
 Al Jazeera English HD
-Alquiler 1
-Alquiler HD
-Ana y los 7
-Andalucía TV
+Andalucía TV,ES (AV) ANDALUCIA TV
+Andalucía TV,ES- Andalucia TV
 Antena 3 HD
 Antena Motor
 Aquí no hay quién viva
