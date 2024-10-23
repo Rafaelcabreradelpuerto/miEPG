@@ -12,7 +12,12 @@
 7teleValencia
 8madrid TV
 A1 Padel
-AMC Break
+AMC Break,ES (AV) AMC BREAK
+AMC Break,ES (O) AMC BREAK
+AMC Break,ES 4k- AMC BREAK
+AMC Break,ES- AMC BREAK FHD
+AMC Break,ES- AMC BREAK HD
+AMC Break,ES- AMC BREAK SD
 AMC Crime
 AMC HD
 ATRESplayer PREMIUM
